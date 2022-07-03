@@ -1,0 +1,37 @@
+html, body{
+    margin: 0;
+}
+
+.my-container{
+    border: 10px solid green;
+    height: 100vh;
+}
+
+.my-row{
+    border: 10px solid black;
+    height: 100%;
+}
+
+.my-col{
+    background-color: lightyellow;
+    border: 1px solid red;
+}
+
+.half-height{
+    min-height: 50%;
+    border: solid 1px gold;
+}
+
+.nav-bar{
+    background-color: lightgoldenrodyellow;
+    display: block;
+    border: none;
+    padding: 14px 28px;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: flex;      
+}
+
+.email-content{
+    background-color: lightblue;
+}
