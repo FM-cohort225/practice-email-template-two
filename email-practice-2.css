@@ -3,7 +3,7 @@ html, body{
 }
 
 .my-container{
-    border: 10px solid green;
+    border: 1px solid green;
     height: 100vh;
 }
 
@@ -13,17 +13,17 @@ html, body{
 }
 
 .my-col{
-    background-color: lightyellow;
-    border: 1px solid red;
+    background-color: white;
+    border: 1px solid black;
 }
 
 .half-height{
     min-height: 50%;
-    border: solid 1px gold;
+    border: solid 1px black;
 }
 
 .nav-bar{
-    background-color: lightgoldenrodyellow;
+    background-color: lightgray;
     display: block;
     border: none;
     padding: 14px 28px;
@@ -33,5 +33,5 @@ html, body{
 }
 
 .email-content{
-    background-color: lightblue;
+    background-color: lightgray;
 }
