@@ -8,12 +8,12 @@ html, body{
 }
 
 .my-row{
-    border: 10px solid black;
+    border: 1px solid black;
     height: 100%;
 }
 
 .my-col{
-    background-color: white;
+    background-color: lightblue;
     border: 1px solid black;
 }
 
